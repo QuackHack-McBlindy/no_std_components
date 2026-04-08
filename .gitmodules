@@ -4,12 +4,15 @@
 [submodule "es8311-rs"]
 	path = es8311-rs
 	url = https://github.com/QuackHack-McBlindy/es8311-rs.git
-[submodule "esp32-web-server"]
-	path = esp32-web-server
-	url = https://github.com/QuackHack-McBlindy/esp32-web-server.git
 [submodule "esp-adf-rs"]
 	path = esp-adf-rs
 	url = https://github.com/QuackHack-McBlindy/esp-adf-rs.git
 [submodule "MS58-3909S68U4-rs"]
 	path = MS58-3909S68U4-rs
 	url = https://github.com/QuackHack-McBlindy/MS58-3909S68U4-rs.git
+[submodule "tinyapi"]
+	path = tinyapi
+	url = https://github.com/QuackHack-McBlindy/tinyapi
+[submodule "es7210-rs"]
+	path = es7210-rs
+	url = git@github.com:QuackHack-McBlindy/es7210-rs.git
