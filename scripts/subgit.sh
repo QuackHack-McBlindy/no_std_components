@@ -90,7 +90,8 @@ case "$cmd" in
             git reset --hard origin/main
             echo "$name is now at $(git rev-parse --short HEAD)"
         '
-
+        
+        sleep 1
         new_table=$(generate_table)
         
         if [[ ! -f "README.md" ]]; then
@@ -122,6 +123,8 @@ case "$cmd" in
         echo "README.md updated."
         git add .
         git commit -m "Updated submodules to latest origin/main" || echo "No changes to commit"
+        git push
+        echo "🚀 Pushed to git!"
         ;;
     *)
         echo "Unknown command: $cmd"
