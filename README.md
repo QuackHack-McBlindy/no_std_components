@@ -16,7 +16,6 @@ most components are crates used with `esp-hal` to build microcontroller firmware
 | es8311-rs | ES8311 Audio COdec no_std library |
 | esp-adf-rs | Audio Development Framework for bare metal no_std enviorments on Espressif microcontrollers |
 | MS58-3909S68U4-rs | bare metal no_std components |
-| scripts | No description |
 | tinyapi | Tiny HTTP API framework for embedded Rust (no_std + alloc) |
 
 <!-- TABLE_END -->

@@ -28,7 +28,7 @@ generate_table() {
     
     for dir in */; do
         component="${dir%/}"
-        [[ "$component" == "dump" ]] && continue
+        [[ "$component" == "dump" || "$component" == "scripts" ]] && continue
         
         cargo_toml="${component}/Cargo.toml"
         description=""
