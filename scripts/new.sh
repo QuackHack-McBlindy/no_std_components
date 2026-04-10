@@ -61,7 +61,7 @@ Contributions are welcomed.
 > Buy me a coffee, or become a sponsor.  
 > Thanks for supporting open source!    
 
-♥️₿ *Wallet:* `pungkula.x`  
+♥️₿ *Wallet:* ``pungkula.x\`   
 <a href="https://www.buymeacoffee.com/quackhackmcblindy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 EOF

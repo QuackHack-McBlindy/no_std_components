@@ -16,3 +16,6 @@
 [submodule "es7210-rs"]
 	path = es7210-rs
 	url = git@github.com:QuackHack-McBlindy/es7210-rs.git
+[submodule "barely-fuzzy"]
+	path = barely-fuzzy
+	url = https://github.com/QuackHack-McBlindy/barely-fuzzy

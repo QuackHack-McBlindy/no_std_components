@@ -11,12 +11,13 @@ most components are crates used with `esp-hal` to build microcontroller firmware
 
 | Component | Description |
 |-----------|-------------|
-| aht20-rs | Bare Metal no_std librarry for AHT20 written in Rust |
-| es7210-rs | ES7210 Audio Codec no_std library |
-| es8311-rs | ES8311 Audio COdec no_std library |
-| esp-adf-rs | Audio Development Framework for bare metal no_std enviorments on Espressif microcontrollers |
-| MS58-3909S68U4-rs | bare metal no_std components |
-| tinyapi | Tiny HTTP API framework for embedded Rust (no_std + alloc) |
+| aht20-rs | No description |
+| barely-fuzzy | Fuzzy matching designed for bare metal no_std environments. Based on Levenshtein distance with heap allocation by feature, no alloc by default. |
+| es7210-rs | No description |
+| es8311-rs | No description |
+| esp-adf-rs | No description |
+| MS58-3909S68U4-rs | No description |
+| tinyapi | No description |
 
 <!-- TABLE_END -->
 
