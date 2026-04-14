@@ -18,6 +18,7 @@ most components are crates used with `esp-hal` to build microcontroller firmware
 | esp-adf-rs | No description |
 | MS58-3909S68U4-rs | No description |
 | tinyapi | No description |
+| yo-esp | ESP32-client for the yo voice assistant framework (no_std + alloc) |
 
 <!-- TABLE_END -->
 

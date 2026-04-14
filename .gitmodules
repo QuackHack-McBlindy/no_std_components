@@ -19,3 +19,6 @@
 [submodule "barely-fuzzy"]
 	path = barely-fuzzy
 	url = https://github.com/QuackHack-McBlindy/barely-fuzzy
+[submodule "yo-esp"]
+	path = yo-esp
+	url = https://github.com/QuackHack-McBlindy/yo-esp
